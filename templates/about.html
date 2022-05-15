@@ -1,0 +1,38 @@
+{% include "header.html" %}
+
+  <!-- Page Header -->
+  <header class="masthead" style="background-image: url({{ url_for('static', filename='img/Austin_wallpaper.jpg')}})">
+    <div class="overlay"></div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+          <div class="page-heading">
+            <h1>About Me</h1>
+            <span class="subheading">Based in Austin!</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Content -->
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-md-10 mx-auto">
+        <p>I'm working on becoming a fullstack developer. My first experience with coding was using Matlab in college years ago.
+          I excelled in the class and went on to tutor it in subsequent semesters. Then came a long hiatus until 2022.</p>
+        <p>In my current position, I realized learning to code could provide our startup significant leverage to scale our business.
+        I started with some webscraping and really enjoyed those projects. It also proved to be a successful effort - we generated 100s of web pages within a matter of weeks that boosted traffic and income more than 10%! </p>
+        <p>I'm now fully committed to building a career in development. While I have a little JS experience, most of my work so far
+        has been in Python. Because Python is so easy and quick to implement, my current plan is to explore as many concepts
+        as I can before returning to JS. Once I am comfortable with vanilla JS, I aim to become proficient with Node, React, and Angular.</p>
+        <p>I am passionately determined to build my own webapps. I have been mapping out ideas as they come up so I can build
+        and deploy them once my skillset is sufficient. If you're reading this and considering bringing me in for an interview,
+        don't forget to ask me about them!</p>
+      </div>
+    </div>
+  </div>
+
+  <hr>
+
+  {% include "footer.html" %}
