@@ -1,5 +1,11 @@
 # Flask Blog
-SQLAlchemy, Bootstrap, Flask, Jinja, and User Authentication
+SQLAlchemy, Bootstrap, Flask, Jinja, password hashing/salting, and User Authentication
+
+```
+Note: I am aware this project could use considerable refactoring to make it more robust, implement OOP, etc. 
+This was a training exercise uploaded as-is.
+I am currently focused on exploring new concepts rather than perfecting what currently exists. 
+```
 
 ## Project Features
 
