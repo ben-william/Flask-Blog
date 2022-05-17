@@ -1,7 +1,7 @@
 # Flask Blog
 SQLAlchemy, Bootstrap, Flask, Jinja, password hashing/salting, and User Authentication
 
-This project is now deployed live on [Heroku](https://flask-blog-heroku-2.herokuapp.com/)
+This project is now deployed live on [Heroku](https://flask-blog-heroku-2.herokuapp.com/)! You may register new users or login using a dummy account with the email: test@test.com and password: test. However, your ISP may block the request. 
 
 
 ```
