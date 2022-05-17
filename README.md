@@ -1,6 +1,9 @@
 # Flask Blog
 SQLAlchemy, Bootstrap, Flask, Jinja, password hashing/salting, and User Authentication
 
+This project is now deployed live on [Heroku](https://flask-blog-heroku-2.herokuapp.com/)
+
+
 ```
 Note: I am aware this project could use considerable refactoring to make it more robust, implement OOP, etc. 
 This was a training exercise uploaded as-is.
